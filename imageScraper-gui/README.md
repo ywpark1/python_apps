@@ -1,1 +1,1 @@
-# python_apps
+# Image Scraper Gui
